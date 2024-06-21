@@ -63,4 +63,4 @@ SlidelyFormApp is a Windows Forms application designed to manage user submission
 - Click the "Delete" button to remove the submission.
 
 ## Repository
-The source code is available for Desktop app on GitHub: [SlidelyFormApp Repository](https://github.com/Dhanushpriyanp/SlidelyTask_Form.git)
+The source code is available for Desktop app on GitHub: [SlidelyFormAppBackend Repository](https://github.com/Dhanushpriyanp/SlidelyTask_Form.git)
