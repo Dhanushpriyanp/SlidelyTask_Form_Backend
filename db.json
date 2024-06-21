@@ -1,0 +1,81 @@
+{
+  "submissions": [
+    {
+      "name": "dhanushpriyan",
+      "email": "sample@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/sample",
+      "stopwatch_time": "00:00:23"
+    },
+    {
+      "name": "sample1",
+      "email": "sample1@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/sample1",
+      "stopwatch_time": "00:05:23"
+    },
+    {
+      "name": "sample2",
+      "email": "sample2@example.com",
+      "phone": "9876543210",
+      "github_link": "https://github.com/sample2",
+      "stopwatch_time": "00:02:45"
+    },
+    {
+      "name": "sample3",
+      "email": "sample3@example.com",
+      "phone": "4567891230",
+      "github_link": "https://github.com/sample3",
+      "stopwatch_time": "00:03:12"
+    },
+    {
+      "name": "sample4",
+      "email": "sample4@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/sample4",
+      "stopwatch_time": "00:02:23"
+    },
+    {
+      "name": "sample5",
+      "email": "sample5@example.com",
+      "phone": "7894561230",
+      "github_link": "https://github.com/sample5",
+      "stopwatch_time": "00:04:36"
+    },
+    {
+      "name": "sample6",
+      "email": "sample6@example.com",
+      "phone": "3216549870",
+      "github_link": "https://github.com/sample6",
+      "stopwatch_time": "00:00:47"
+    },
+    {
+      "name": "sample7",
+      "email": "sample7@example.com",
+      "phone": "5678901230",
+      "github_link": "https://github.com/sample7",
+      "stopwatch_time": "00:00:53"
+    },
+    {
+      "name": "sample8",
+      "email": "sample8@example.com",
+      "phone": "8901234560",
+      "github_link": "https://github.com/sample8",
+      "stopwatch_time": "00:00:12"
+    },
+    {
+      "name": "sample9",
+      "email": "sample9@example.com",
+      "phone": "2345678901",
+      "github_link": "https://github.com/sample9",
+      "stopwatch_time": "00:00:25"
+    },
+    {
+      "name": "sample10",
+      "email": "sample10@example.com",
+      "phone": "4567890123",
+      "github_link": "https://github.com/sample10",
+      "stopwatch_time": "00:00:09"
+    }
+  ]
+}
